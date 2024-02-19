@@ -1,7 +1,7 @@
 {
     "name": "codenomads/roles-permission",
     "description": "Laravel 10.XX Roles and Permission complete",
-    "type": "composer-plugin",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Codenomads\\RolesPermission\\": "src/"
