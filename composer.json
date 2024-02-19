@@ -16,5 +16,26 @@
     "require": {},
     "minimum-stability": "stable",
     "version": "v1.0.0",
-    "license": "MIT"
+    "license": "MIT",
+    "time": "2024-02-19 10:48 UTC",
+    "support": {
+        "email": "mail.aashishjha@gmail.com",
+        "issues": "https://github.com/codenomads/roles-permission/issues",
+        "source": "https://github.com/codenomads/roles-permission"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.3"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codenomads\\RolesPermission\\RolesPermissionServiceProvider"
+            ],
+            "aliases": {
+                "RolesPermission": "Codenomads\\RolesPermission\\Facades\\RolesPermission"
+            }
+        }
+    }
 }
