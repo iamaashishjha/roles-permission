@@ -21,7 +21,8 @@
     "authors": [
         {
             "name": "iamaashishjha",
-            "email": "mail.aashishjha@gmail.com"
+            "email": "mail.aashishjha@gmail.com",
+            "role": "Developer"
         }
     ],
     "homepage": "https://github.com/iamaashishjha/roles-permission.git",
@@ -40,13 +41,6 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "version": "v1.0.0",
-
-    "time": "2024-02-19 10:48 UTC",
-    "support": {
-        "email": "mail.aashishjha@gmail.com",
-        "issues": "https://github.com/iamaashishjha/roles-permission.git",
-        "source": "https://github.com/iamaashishjha/roles-permission.git"
-    },
     "config": {
         "platform": {
             "php": "7.4.3"
