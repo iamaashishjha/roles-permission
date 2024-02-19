@@ -3,6 +3,8 @@
     "description": "Laravel 10.XX Roles and Permission complete",
     "license": "MIT",
     "type": "library",
+    "repository": "https://github.com/iamaashishjha/roles-permission.git",
+    "url": "https://packagist.org/packages/codenomads/roles-permission",
     "keywords": [
         "codenomads",
         "laravel",
@@ -38,7 +40,7 @@
         "orchestra/testbench": "^6.23|^7.0|^8.0|^9.0",
         "phpunit/phpunit": "^9.4|^10.1"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "version": "v1.0.0",
     "config": {
