@@ -1,0 +1,19 @@
+{
+    "name": "codenomads/roles-permission",
+    "description": "Laravel 10.XX Roles and Permission complete",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Codenomads\\RolesPermission\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iamaashishjha",
+            "email": "mail.aashishjha@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "version": "1.0.0"
+}
